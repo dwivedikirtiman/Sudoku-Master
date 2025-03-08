@@ -132,7 +132,7 @@ This project is free to use and distributed under the MIT License.
 
 [Kirtiman Dwivedi]
 
-GitHub: YourUsername  
+GitHub: https://github.com/dwivedikirtiman 
 Email: [dwivedikirtiman000@gmail.com]  
 
 Let’s connect—I’d love to hear your feedback!
