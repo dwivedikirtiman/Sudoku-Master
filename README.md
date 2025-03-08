@@ -34,8 +34,9 @@ Welcome to Sudoku Master—a sleek, interactive Sudoku game built with Java Swin
 
 Ensure you have the following installed:
 
-Java Development Kit (JDK 8+)  
-A Java IDE (like IntelliJ IDEA or Eclipse) or just a terminal
+- Java Development Kit (JDK 8+)  
+
+- A Java IDE (like IntelliJ IDEA or Eclipse) or just a terminal
 
 ## 🔧 Installation & Setup
 Clone the repository to your local machine:
