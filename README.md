@@ -40,7 +40,7 @@ A Java IDE (like IntelliJ IDEA or Eclipse) or just a terminal
 ## 🔧 Installation & Setup
 Clone the repository to your local machine:
 
-```git clone https://github.com/[YourUsername]/SudokuMaster.git``` 
+```https://github.com/dwivedikirtiman/Sudoku-Master.git``` 
 
 ```cd SudokuMaster```
 
